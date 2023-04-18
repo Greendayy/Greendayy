@@ -20,9 +20,9 @@
 <br/>
 <br/>
 <br/>
-<br/>
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=greendayy&show_icons=true&locale=en&layout=compact" alt="greendayy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greendayy&show_icons=true&locale=en" alt="greendayy" /></p>
-
+</div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greendayy&" alt="greendayy" /></p>
